@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/lujai/Documents/ITI/21.%20Data%20Science%20in%20production/DSIP/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: mlflow_demo_tracking
